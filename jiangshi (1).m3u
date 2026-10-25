@@ -1,0 +1,47 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv1hd
+#EXTINF:-1 tvg-id="CCTV-1" tvg-name="CCTV-1" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-1.png" group-title="📺央视频道",CCTV-1（备）
+http://38.75.136.137:98/gslb/dsdqbv/cctv1hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视频道",CCTV-2
+http://204.12.221.218:8181/3m1080p/cctv2.m3u8
+#EXTINF:-1 tvg-id="CCTV-2" tvg-name="CCTV-2" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-2.png" group-title="📺央视频道",CCTV-2（备）
+http://bztv.tvbus.cc:8081/cdnlive/cctv2.m3u8
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视频道",CCTV-6
+http://69.30.245.50/live/cctv6.m3u8
+#EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV-6" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-6.png" group-title="📺央视频道",CCTV-6（备）
+http://198.204.240.250:82/live/cctv6.m3u8
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📺央视频道",CCTV-13
+http://38.75.136.137:98/gslb/dsdqbv/cctv13hd.m3u8?auth=test20251009
+#EXTINF:-1 tvg-id="CCTV-13" tvg-name="CCTV-13" tvg-logo="https://www.xn--rgv465a.top/tvlogo/CCTV-13.png" group-title="📺央视频道",CCTV-13（备）
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=cctv13hd
+#EXTINF:-1 tvg-id="SETNews" group-title="🌊港·澳·台",三立新闻台
+http://60.250.65.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY05-B0222.m3u8
+#EXTINF:-1 tvg-id="SETNews" group-title="🌊港·澳·台",三立新闻台（备）
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY05-B0222.m3u8
+#EXTINF:-1 tvg-id="TVBSNews" group-title="🌊港·澳·台",TVBS新闻台
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY06-B0223.m3u8
+#EXTINF:-1 tvg-id="TVBSNews" group-title="🌊港·澳·台",TVBS新闻台（备）
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY06-B0223.m3u8
+#EXTINF:-1 tvg-id="EBCNews" group-title="🌊港·澳·台",东森新闻台
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY03-B0120.m3u8
+#EXTINF:-1 tvg-id="EBCNews" group-title="🌊港·澳·台",东森新闻台（备）
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY03-B0120.m3u8
+#EXTINF:-1 tvg-id="EBCVariety" group-title="🌊港·澳·台",东森洋片台
+http://60.250.74.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY13-B0430.m3u8
+#EXTINF:-1 tvg-id="EBCVariety" group-title="🌊港·澳·台",东森洋片台（备）
+http://60.251.41.241:8134/hls-live/livepkgr/_definst_/liveevent/SKY13-B0430.m3u8
+#EXTINF:-1 tvg-id="LSTime" group-title="🌊港·澳·台",龙祥电影台
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/SKY12-B0429.m3u8
+#EXTINF:-1 tvg-id="LSTime" group-title="🌊港·澳·台",龙祥电影台（备）
+http://pili-live-hdl.qhmywl.com/dsdtv/a5da9875c963d704ac5dd8f866869723.m3u8
+#EXTINF:-1 tvg-id="Hollywood" group-title="🌊港·澳·台",好莱坞电影台
+http://www.anchoredinversion.com/tv/ds/twtv.php?id=twhlwdy
+#EXTINF:-1 tvg-id="Hollywood" group-title="🌊港·澳·台",好莱坞电影台（备）
+http://192.240.106.42:7022/3
+#EXTINF:-1 tvg-id="GlobalNews" group-title="🌊港·澳·台",寰宇新闻台
+http://60.250.71.252:8134/hls-live/livepkgr/_definst_/liveevent/50GNews.m3u8
+#EXTINF:-1 tvg-id="CTSNews" group-title="🌊港·澳·台",华视新闻台
+http://210.201.54.102/live2/cts_news.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="CTSNews" group-title="🌊港·澳·台",华视新闻台（备）
+http://210.201.54.102/gtlive/cts_news.sdp/playlist.m3u8?t=C27EB7B0A9545EDF2331AE48B71F9EF8FCA5DD57B5A4F9868B1AD3A1E5496E61
